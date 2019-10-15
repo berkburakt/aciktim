@@ -1,3 +1,3 @@
 # aciktim
 
-A food ordering applicaton for Kalkanli valley.
+A food ordering applicaton
